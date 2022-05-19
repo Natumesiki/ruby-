@@ -36,6 +36,7 @@ end
 
 puts greeting('john')
 
+# 実行結果→Hello,john!が表示される
 
 
 
