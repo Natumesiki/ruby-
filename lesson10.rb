@@ -4,8 +4,8 @@ class Car
   end
 end
 
-class Motorcycle  < Car
+class   Patrol_car < Car
 end
  
-motorcycle = Motorcycle.new
+motorcycle = Patrol_car.new
 motorcycle.run(5)
